@@ -1,0 +1,7 @@
+Olá, sou um arquivo de texto.
+
+linha 1 = numero: 10
+linha 2 = numero: 20
+linha 3 = numero: 30
+linha 4 = numero: 40
+linha 5 = numero: 50
